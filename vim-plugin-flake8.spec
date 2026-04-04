@@ -2,7 +2,7 @@
 Summary:	Vim plugin: flake8
 Name:		vim-plugin-%{plugin}
 Version:	1.4
-Release:	1
+Release:	2
 License:	Vim
 Group:		Applications/Editors/Vim
 Source0:	https://github.com/nvie/vim-flake8/archive/%{version}.tar.gz
